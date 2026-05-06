@@ -47,10 +47,10 @@
 
 <table>
   <tr>
-    <td align="center"><a href="http://github.com/wnsmir"><img src="https://avatars.githubusercontent.com/u/76018948?v=4" width="100px;" alt=""/>
-    <td align="center"><a href="http://github.com/g0rnn"><img src="https://avatars.githubusercontent.com/u/113815454?v=4" width="100px;" alt=""/>
-    <td align="center"><a href="https://github.com/kokeunho"><img src="https://avatars.githubusercontent.com/u/217351372?v=4" width="100px;" alt=""/>
-    <td align="center"><a href="https://github.com/kangrae-jo"><img src="https://avatars.githubusercontent.com/u/156536744?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="http://github.com/kwkim526"><img src="https://avatars.githubusercontent.com/u/76018948?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="http://github.com/gjsk132"><img src="https://avatars.githubusercontent.com/u/113815454?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/mini-zun"><img src="https://avatars.githubusercontent.com/u/217351372?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/hide-squid"><img src="https://avatars.githubusercontent.com/u/156536744?v=4" width="100px;" alt=""/>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kwkim526" title="Code">김경원</a></td>

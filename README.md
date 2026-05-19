@@ -51,12 +51,14 @@
     <td align="center"><a href="http://github.com/gjsk132"><img src="https://avatars.githubusercontent.com/u/113815454?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/mini-zun"><img src="https://avatars.githubusercontent.com/u/217351372?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/hide-squid"><img src="https://avatars.githubusercontent.com/u/156536744?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/Kaifeel"><img src="https://avatars.githubusercontent.com/u/34030977?v=4" width="100px;" alt=""/>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kwkim526" title="Code">김경원</a></td>
     <td align="center"><a href="https://github.com/gjsk132" title="Code">허나영</a></td>
     <td align="center"><a href="https://github.com/mini-zun" title="Code">구민준</a></td>
     <td align="center"><a href="https://github.com/hide-squid" title="Code">김태범</a></td>
+    <td align="center"><a href="https://github.com/Kaifeel" title="Code">김선우</a></td>
   </tr>
 </table>
 

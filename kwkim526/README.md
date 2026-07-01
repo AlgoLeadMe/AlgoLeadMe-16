@@ -6,4 +6,4 @@
 | 2차시 | 2026.05.13 | https://school.programmers.co.kr/learn/courses/30/lessons/42576 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/7 |
 | 3차시 | 2026.05.19 | https://school.programmers.co.kr/learn/courses/30/lessons/12909 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/12 |
 | 4차시 | 2026.05.23 | https://school.programmers.co.kr/learn/courses/30/lessons/42587 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/15 |
-| 7차시 | 2026.06.26 | https://neetcode.io/problems/anagram-groups/question?list=neetcode150 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/15 |
+| 7차시 | 2026.06.26 | https://neetcode.io/problems/anagram-groups/question?list=neetcode150 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/31 |

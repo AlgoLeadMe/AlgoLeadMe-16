@@ -6,3 +6,4 @@
 | 2차시 | 2025.05.14 | https://school.programmers.co.kr/learn/courses/30/lessons/154540 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/8 |
 | 3차시 | 2025.05.18 | https://school.programmers.co.kr/learn/courses/30/lessons/148653 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/11 |
 | 4차시 | 2025.05.26 | https://school.programmers.co.kr/learn/courses/30/lessons/12978 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/18 |
+| 5차시 | 2025.06.07 | https://school.programmers.co.kr/learn/courses/30/lessons/42583 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/23 |

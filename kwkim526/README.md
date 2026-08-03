@@ -8,3 +8,4 @@
 | 4차시 | 2026.05.23 | https://school.programmers.co.kr/learn/courses/30/lessons/42587 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/15 |
 | 5차시 | 2026.06.02 | https://school.programmers.co.kr/learn/courses/30/lessons/42746 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/20 |
 | 6차시 | 2026.06.10 | https://school.programmers.co.kr/learn/courses/30/lessons/42626 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/27 |
+| 7차시 | 2026.06.26 | https://neetcode.io/problems/anagram-groups/question?list=neetcode150 | https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/31 |

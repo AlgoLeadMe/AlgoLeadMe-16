@@ -7,4 +7,3 @@
 | 3차시 | 2026.06.02 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버 | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/21"> #21|
 | 4차시 | 2026.06.08 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17680/43165">[1차] 캐시 | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/24"> #24|
 | 5차시 | 2026.07.01 | <a href="https://jungol.co.kr/problem/2191">최소 편집 | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/32"> #32|
-

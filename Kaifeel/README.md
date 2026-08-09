@@ -7,3 +7,4 @@
 | 5차시 | 2026.07.01 | <a href="https://jungol.co.kr/problem/2191">최소 편집 | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/32"> #32|
 | 6차시 | 2026.07.07 | <a href="https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-tromino/description">트로미노 | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/35"> #35|
 | 7차시 | 2026.07.13 | <a href="https://web.archive.org/web/20260421150151/https://www.acmicpc.net/problem/17472">다리만들기 2 | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/36"> #36|
+| 8차시 | 2026.08.10| <a href="https://leetcode.com/problems/maximal-rectangle/description/">Maximal Rectangle | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/37"> #37|

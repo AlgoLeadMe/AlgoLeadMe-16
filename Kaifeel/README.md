@@ -9,3 +9,4 @@
 | 7차시 | 2026.07.13 | <a href="https://web.archive.org/web/20260421150151/https://www.acmicpc.net/problem/17472">다리만들기 2 | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/36"> #36|
 | 8차시 | 2026.08.10| <a href="https://leetcode.com/problems/maximal-rectangle/description/">Maximal Rectangle | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/37"> #37|
 | 9차시 | 2026.08.16| <a href="https://atcoder.jp/contests/abc471/tasks/abc471_c">Cookies and Greedy Takahashi | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/39"> #39|
+| 10차시 | 2026.08.21| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17678">셔틀버스 | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/41"> #41|

@@ -10,3 +10,4 @@
 | 8차시 | 2026.08.10| <a href="https://leetcode.com/problems/maximal-rectangle/description/">Maximal Rectangle | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/37"> #37|
 | 9차시 | 2026.08.16| <a href="https://atcoder.jp/contests/abc471/tasks/abc471_c">Cookies and Greedy Takahashi | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/39"> #39|
 | 10차시 | 2026.08.21| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17678">셔틀버스 | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/41"> #41|
+| 11차시 | 2026.09.04| <a href="https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/magical-forest-exploration/description">마법의 숲 탐색 | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-16/pull/44"> #44|
